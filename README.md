@@ -20,8 +20,8 @@ I'm passionate about **Cloud Computing, DevOps, and AI**. Currently exploring Li
   - Developed **image classification** projects using Python.
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmansq98)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-salman-qureshi-msq9/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmansq98)  
 
 ---
 
