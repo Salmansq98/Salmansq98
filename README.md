@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Salman Qureshi!
+# 👋 Hi, I'm Mohammed Salman Qureshi
 
 🚀 **Aspiring Cloud Support Engineer | DevOps Enthusiast | AI Learner**  
 
