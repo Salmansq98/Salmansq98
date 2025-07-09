@@ -1,5 +1,5 @@
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 I am a **Linux Support Engineer** with over 2 years of experience in system support, automation, and cloud solutions. My expertise includes:
 
