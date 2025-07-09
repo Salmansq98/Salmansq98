@@ -1,5 +1,5 @@
 
-## About Me
+## 👩‍💻 About Me
 
 I am a **Linux Support Engineer** with over 2 years of experience in system support, automation, and cloud solutions. My expertise includes:
 
@@ -12,7 +12,7 @@ I hold a **Bachelor's degree in Computer Science and Engineering** from Osmania 
 
 ---
 
-## Key Accomplishments
+## 🏆 Key Accomplishments
 
 - Automated user management for RHEL servers using Ansible, reducing manual effort by 50%.
 - Designed and implemented Ansible roles for multi-tier application deployments.
